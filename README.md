@@ -183,6 +183,7 @@
         <th colspan='2'>
             <h4 align='center'>PYTHON-Related</h4>
         </th>
+        <th></th>
         <th colspan='2'>
             <h4 align='center'>JAVA-Related</h4>
         </th>
@@ -200,6 +201,7 @@
             </a>
             <br>Django (Studying)
         </td>
+        <td></td>
         <td align="center" width="96">
             <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
                 <img src="./icons/java.png" width="48" height="48" alt="java" />
@@ -214,7 +216,7 @@
         </td>
     </tr>
     <tr>
-        <th colspan='4'>
+        <th colspan='5'>
             <h4 align='center'>OTHERS</h4>
         </th>
     </tr>
@@ -237,6 +239,7 @@
                 <img src="./icons/bash.svg" width="48" height="48" alt="bash" />
             <br>Bash
         </td>
+        <td></td>
     </tr>
     </tr>
 </table>
