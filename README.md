@@ -191,25 +191,25 @@
     </tr>
     <tr>
         <td align="center" width="96">
-            <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> 
+            <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
                 <img src="./icons/python.png" width="48" height="48" alt="python" />
             </a>
             <br>Python
         </td>
         <td align="center" width="96">
-            <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> 
+            <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> 
                 <img src="./icons/django.png" width="48" height="48" alt="django" />
             </a>
-            <br>Django
+            <br>Django (Studying)
         </td>
         <td align="center" width="96">
-            <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> 
+            <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
                 <img src="./icons/java.png" width="48" height="48" alt="java" />
             </a>
             <br>Java
         </td>
         <td align="center" width="96">
-            <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> 
+            <a href="https://angularjs.org" target="_blank" rel="noreferrer"> 
                 <img src="./icons/angularjs.png" width="48" height="48" alt="angularjs" />
             </a>
             <br>Angular JS
