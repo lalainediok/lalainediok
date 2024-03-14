@@ -198,27 +198,27 @@
     <tr>
         <td align="center" width="96">
             <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> 
-                <img src="./icons/photoshop.png" width="48" height="48" alt="photoshop" />
+                <img src="./icons/python.png" width="48" height="48" alt="python" />
             </a>
-            <br>Adobe Photoshop
+            <br>Python
         </td>
         <td align="center" width="96">
             <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> 
-                <img src="./icons/CSP.png" width="48" height="48" alt="csp" />
+                <img src="./icons/django.png" width="48" height="48" alt="django" />
             </a>
-            <br>CSP
+            <br>Django
         </td>
         <td align="center" width="96">
             <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> 
-                <img src="./icons/photoshop.png" width="48" height="48" alt="photoshop" />
+                <img src="./icons/java.png" width="48" height="48" alt="java" />
             </a>
-            <br>Adobe Photoshop
+            <br>Java
         </td>
         <td align="center" width="96">
             <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> 
-                <img src="./icons/CSP.png" width="48" height="48" alt="csp" />
+                <img src="./icons/angularjs.png" width="48" height="48" alt="angularjs" />
             </a>
-            <br>CSP
+            <br>Angular JS
         </td>
     </tr>
     <tr>
