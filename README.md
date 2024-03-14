@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Lalaine Diok</h1>
-<h3 align="center">BSIT Student [ Aspiring Front-End Developer | Digital Artist ]</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalainediok&label=Profile%20views&color=0e75b6&style=flat" alt="lalainediok" /> </p>
+<img align="center" src="GitHubBanner.gif" alt="Banner">
+
+<p align="left"  height="30" width="40">
+<img src="https://komarev.com/ghpvc/?username=lalainediok&label=Profile%20views&color=0e75b6&style=flat" alt="lalainediok" /> 
+ </p>
+
+
+<h2 align="left">Information</h2>
 
 - 🌱 I’m currently learning **Front-End Languages (CSS & JavaScript Frameworks))**
 
@@ -11,7 +16,7 @@
 
 - ⚡ Fun fact **I really love to draw and I love to learn & progress on a skill I'm tackling!**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://codepen.io/lalaine diok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lalaine diok" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lalaine diok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalaine diok" height="30" width="40" /></a>
