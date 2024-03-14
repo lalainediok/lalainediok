@@ -31,61 +31,90 @@
 <h3 alight="left">IDEs and Tools</h3>
 <table>
     <tr>
-        <th colspan='5'>
-            <h4>PROGRAMMING</h4>
+        <th colspan='6'>
+            <h4 align='center'>PROGRAMMING</h4>
         </th>
     </tr>
     <tr>
         <td align="center" width="96">
-            <img src="./icons/" width="48" height="48" alt="" />
-            <br>Go
+            <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/vscode.png" width="48" height="48" alt="vscode" />
+            </a>
+            </a>
+            <br>VS Code
         </td>
         <td align="center" width="96">
-            <img src="./icons/" width="48" height="48" alt="" />
-            <br>Go
+            <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/mysql_wtitle.png" width="48" height="48" alt="mysql" />
+            </a>
+            <br>mySQL
         </td>
         <td align="center" width="96">
-            <img src="./icons/" width="48" height="48" alt="" />
-            <br>Go
+            <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/git.png" width="48" height="48" alt="git" />
+            </a>
+            <br>Git
         </td>
         <td align="center" width="96">
-            <img src="./icons/" width="48" height="48" alt="" />
-            <br>Go
+            <a href="https://github.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/github.png" width="48" height="48" alt="github" />
+            </a>
+            <br>GitHub
         </td>
         <td align="center" width="96">
-            <img src="./icons/" width="48" height="48" alt="" />
-            <br>Go
+            <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/jetbrains.png" width="48" height="48" alt="jetbrains" />
+            </a>
+            <br>JetBrains
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.figma.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/figma.png" width="48" height="48" alt="figma" />
+            </a>
+            <br>Figma
         </td>
     </tr>
     <tr>
         <th colspan='6'>
-            <h4>Creatives</h4>
+            <h4 align='center'>CREATIVES</h4>
         </th>
     </tr>
     <tr>
         <td align="center" width="96">
-            <img src="./icons/" width="48" height="48" alt="" />
-            <br>Go
+            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/photoshop.png" width="48" height="48" alt="photoshop" />
+            </a>
+            <br>Adobe Photoshop
         </td>
         <td align="center" width="96">
-            <img src="./icons/" width="48" height="48" alt="" />
-            <br>Go
+            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/CSP.png" width="48" height="48" alt="csp" />
+            </a>
+            <br>CSP
         </td>
         <td align="center" width="96">
-            <img src="./icons/" width="48" height="48" alt="" />
-            <br>Go
+            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/VEGAS.png" width="48" height="48" alt="vegaspro" />
+            </a>
+            <br>Vegas Pro
         </td>
         <td align="center" width="96">
-            <img src="./icons/" width="48" height="48" alt="" />
-            <br>Go
+            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/canva.png" width="48" height="48" alt="canva" />
+            </a>
+            <br>Canva
         </td>
         <td align="center" width="96">
-            <img src="./icons/" width="48" height="48" alt="" />
-            <br>Go
+            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/microsoftoffice.png" width="48" height="48" alt="msoffice" />
+            </a>
+            <br>Microsot Office
         </td>
         <td align="center" width="96">
-            <img src="./icons/" width="48" height="48" alt="" />
-            <br>Go
+            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/gsuite.png" width="48" height="54" alt="gsuite" />
+            </a>
+            <br>Google Suite
         </td>
     </tr>
 
@@ -106,10 +135,6 @@
 
 
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 
