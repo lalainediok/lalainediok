@@ -117,19 +117,137 @@
             <br>Google Suite
         </td>
     </tr>
-
 </table>
 
 <h3 alight="left">Programming Languages</h3>
 <table>
+<table>
     <tr>
-      <th colspan=''>
-      </th>
+        <th colspan='4'>
+            <h4 align='center'>WEB DEVELOPMENT</h4>
+        </th>
     </tr>
     <tr>
-      <td>
-      </td>
+        <td align="center" width="96">
+            <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/html5.png" width="48" height="48" alt="html" />
+            </a>
+            <br>HTML5
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/css3.png" width="48" height="48" alt="css3" />
+            </a>
+            <br>CSS3
+        </td>
+        <td align="center" width="96">
+            <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/javascript.png" width="48" height="48" alt="javascript" />
+            </a>
+            <br>JavaScript
+        </td>
+        <td align="center" width="96">
+            <a href="https://github.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/react.png" width="48" height="48" alt="react" />
+            </a>
+            <br>React
+        </td>
     </tr>
+    <tr>
+        <td align="center" width="96">
+            <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/sql.svg" width="48" height="48" alt="sql" />
+            </a>
+            <br>SQL
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/laravel.svg" width="48" height="48" alt="laravel" />
+            </a>
+            <br>Laravel
+        </td>
+        <td align="center" width="96">
+            <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/php.png" width="48" height="48" alt="php" />
+            </a>
+            <br>PHP
+        </td>
+        <td align="center" width="96">
+            <a href="https://github.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/bootstrap.png" width="48" height="48" alt="bootstrap" />
+            </a>
+            <br>Bootstrap
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
+                <img src="./icons/materialui.png" width="48" height="48" alt="materialui" />
+            </a>
+            <br>Material UI 
+        </td>
+    </tr>
+    <tr>
+        <th colspan='2'>
+            <h4 align='center'>PYTHON-Related</h4>
+        </th>
+        <th colspan='2'>
+            <h4 align='center'>JAVA-Related</h4>
+        </th>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> 
+                <img src="./icons/photoshop.png" width="48" height="48" alt="photoshop" />
+            </a>
+            <br>Adobe Photoshop
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> 
+                <img src="./icons/CSP.png" width="48" height="48" alt="csp" />
+            </a>
+            <br>CSP
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> 
+                <img src="./icons/photoshop.png" width="48" height="48" alt="photoshop" />
+            </a>
+            <br>Adobe Photoshop
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> 
+                <img src="./icons/CSP.png" width="48" height="48" alt="csp" />
+            </a>
+            <br>CSP
+        </td>
+    </tr>
+    <tr>
+        <th colspan='4'>
+            <h4 align='center'>OTHERS</h4>
+        </th>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> 
+                <img src="./icons/photoshop.png" width="48" height="48" alt="photoshop" />
+            </a>
+            <br>Adobe Photoshop
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> 
+                <img src="./icons/CSP.png" width="48" height="48" alt="csp" />
+            </a>
+            <br>CSP
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> 
+                <img src="./icons/CSP.png" width="48" height="48" alt="csp" />
+            </a>
+            <br>CSP
+        </td>
+    </tr>
+    </tr>
+</table>
 
 </table>
 
