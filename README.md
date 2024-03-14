@@ -129,25 +129,21 @@
     </tr>
     <tr>
         <td align="center" width="96">
-            <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
                 <img src="./icons/html5.png" width="48" height="48" alt="html" />
-            </a>
             <br>HTML5
         </td>
         <td align="center" width="96">
-            <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
                 <img src="./icons/css3.png" width="48" height="48" alt="css3" />
-            </a>
             <br>CSS3
         </td>
         <td align="center" width="96">
-            <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
+            <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
                 <img src="./icons/javascript.png" width="48" height="48" alt="javascript" />
             </a>
             <br>JavaScript
         </td>
         <td align="center" width="96">
-            <a href="https://github.com" target="_blank" rel="noreferrer"> 
+            <a href="https://react.dev" target="_blank" rel="noreferrer"> 
                 <img src="./icons/react.png" width="48" height="48" alt="react" />
             </a>
             <br>React
@@ -155,25 +151,23 @@
     </tr>
     <tr>
         <td align="center" width="96">
-            <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
                 <img src="./icons/sql.svg" width="48" height="48" alt="sql" />
-            </a>
             <br>SQL
         </td>
         <td align="center" width="96">
-            <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
+            <a href="https://laravel.com" target="_blank" rel="noreferrer"> 
                 <img src="./icons/laravel.svg" width="48" height="48" alt="laravel" />
             </a>
             <br>Laravel
         </td>
         <td align="center" width="96">
-            <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
+            <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
                 <img src="./icons/php.png" width="48" height="48" alt="php" />
             </a>
             <br>PHP
         </td>
         <td align="center" width="96">
-            <a href="https://github.com" target="_blank" rel="noreferrer"> 
+            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
                 <img src="./icons/bootstrap.png" width="48" height="48" alt="bootstrap" />
             </a>
             <br>Bootstrap
@@ -181,7 +175,7 @@
     </tr>
     <tr>
         <td align="center" width="96">
-            <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
+            <a href="https://mui.com" target="_blank" rel="noreferrer"> 
                 <img src="./icons/materialui.png" width="48" height="48" alt="materialui" />
             </a>
             <br>Material UI 
