@@ -229,21 +229,27 @@
     <tr>
         <td align="center" width="96">
             <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> 
-                <img src="./icons/photoshop.png" width="48" height="48" alt="photoshop" />
+                <img src="./icons/markdown.png" width="48" height="48" alt="photoshop" />
             </a>
-            <br>Adobe Photoshop
+            <br>Markdown
         </td>
         <td align="center" width="96">
             <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> 
-                <img src="./icons/CSP.png" width="48" height="48" alt="csp" />
+                <img src="./icons/c.png" width="48" height="48" alt="c-language" />
             </a>
-            <br>CSP
+            <br>C
         </td>
         <td align="center" width="96">
             <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> 
-                <img src="./icons/CSP.png" width="48" height="48" alt="csp" />
+                <img src="./icons/csharp.png" width="48" height="48" alt="csharp" />
             </a>
-            <br>CSP
+            <br>C#
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> 
+                <img src="./icons/bash.svg" width="48" height="48" alt="bash" />
+            </a>
+            <br>Bash
         </td>
     </tr>
     </tr>
