@@ -81,37 +81,37 @@
     </tr>
     <tr>
         <td align="center" width="96">
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+            <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> 
                 <img src="./icons/photoshop.png" width="48" height="48" alt="photoshop" />
             </a>
             <br>Adobe Photoshop
         </td>
         <td align="center" width="96">
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+            <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> 
                 <img src="./icons/CSP.png" width="48" height="48" alt="csp" />
             </a>
             <br>CSP
         </td>
         <td align="center" width="96">
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+            <a href="https://filmora.wondershare.net/best-alternative-to-vegas-pro.html" target="_blank" rel="noreferrer"> 
                 <img src="./icons/VEGAS.png" width="48" height="48" alt="vegaspro" />
             </a>
             <br>Vegas Pro
         </td>
         <td align="center" width="96">
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+            <a href="https://www.canva.com" target="_blank" rel="noreferrer"> 
                 <img src="./icons/canva.png" width="48" height="48" alt="canva" />
             </a>
             <br>Canva
         </td>
         <td align="center" width="96">
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+            <a href="https://www.office.com" target="_blank" rel="noreferrer"> 
                 <img src="./icons/microsoftoffice.png" width="48" height="48" alt="msoffice" />
             </a>
             <br>Microsot Office
         </td>
         <td align="center" width="96">
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+            <a href="https://workspace.google.com/intl/en_ph/" target="_blank" rel="noreferrer"> 
                 <img src="./icons/gsuite.png" width="48" height="54" alt="gsuite" />
             </a>
             <br>Google Suite
