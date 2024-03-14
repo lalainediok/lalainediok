@@ -26,7 +26,7 @@
 </p>
 
 <!-- TOOLS AND LANGUAGES -->
-<h2 align="left">Languages and Tools </h2>
+<h2 align="left">🛠️💻 Languages and Tools 💻🛠️</h2>
 
 <h3 alight="left">IDEs and Tools</h3>
 <table>
