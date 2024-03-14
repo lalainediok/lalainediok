@@ -123,7 +123,7 @@
 <table>
 <table>
     <tr>
-        <th colspan='4'>
+        <th colspan='5'>
             <h4 align='center'>WEB DEVELOPMENT</h4>
         </th>
     </tr>
@@ -171,15 +171,13 @@
                 <img src="./icons/bootstrap.png" width="48" height="48" alt="bootstrap" />
             </a>
             <br>Bootstrap
-        </td>
-    </tr>
-    <tr>
+        </td>  
         <td align="center" width="96">
             <a href="https://mui.com" target="_blank" rel="noreferrer"> 
                 <img src="./icons/materialui.png" width="48" height="48" alt="materialui" />
             </a>
             <br>Material UI 
-        </td>
+        </td>    
     </tr>
     <tr>
         <th colspan='2'>
@@ -222,27 +220,21 @@
     </tr>
     <tr>
         <td align="center" width="96">
-            <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> 
+            <a href="https://www.markdownguide.org" target="_blank" rel="noreferrer"> 
                 <img src="./icons/markdown.png" width="48" height="48" alt="photoshop" />
             </a>
             <br>Markdown
         </td>
         <td align="center" width="96">
-            <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> 
                 <img src="./icons/c.png" width="48" height="48" alt="c-language" />
-            </a>
             <br>C
         </td>
         <td align="center" width="96">
-            <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> 
                 <img src="./icons/csharp.png" width="48" height="48" alt="csharp" />
-            </a>
             <br>C#
         </td>
         <td align="center" width="96">
-            <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> 
                 <img src="./icons/bash.svg" width="48" height="48" alt="bash" />
-            </a>
             <br>Bash
         </td>
     </tr>
