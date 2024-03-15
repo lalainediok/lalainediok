@@ -1,35 +1,40 @@
 
-<img align="center" src="./img/GitHubBanner.gif" alt="Banner">
-
+<p align="center">
+    <img align="center" src="./img/GitHubBanner.gif" alt="Banner">
+</p>
 <p align="left"  height="30" width="40">
-<img src="https://komarev.com/ghpvc/?username=lalainediok&label=Profile%20views&color=0e75b6&style=flat" alt="lalainediok" /> 
- </p>
+    <img src="https://komarev.com/ghpvc/?username=lalainediok&label=Profile%20views&color=0e75b6&style=flat" alt="lalainediok" /> 
+</p>
 
 <!-- ABOUT ME SECTION-->
 <h2 align="left" height="30px">💬 About Me 💬</h2>
 
-- 🌱 I’m a 4th Year Student in **Polytechnic University of the Philippines** 
-- Studying under the cooBachelor of Science in Information Technology 
+- 🏫 I’m a 4th Year Student in **Polytechnic University of the Philippines** 
 
-- 💬 Ask me about **Python, Java & Art**
+- 🖥️ Studying under the **BS Information Technology**
 
-- 📫 How to reach me **lalainel.diok@gmail.com**
+- ⚡ Fun fact **I'm a volunteer of Python Philippines 🇵🇭 and part of PyLadies👩‍💻**! 
 
-- ⚡ Fun fact **I really love to draw and I love to learn & progress on a skill I'm tackling!**
+- 💬 If you're into **Art, Video Games, & Coding** don't be afraid to engage to me
+
+- 📫 Reach me by sending an email thorough **lalainel.diok@gmail.com**
 
 <!-- SOCIALS -->
 <h2 align="left"> 📱 Connect with me 📱</h2>
-<p align="left">
-<a href="https://codepen.io/lalaine diok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lalaine diok" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lalaine diok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalaine diok" height="30" width="40" /></a>
-<a href="https://discord.gg/lunarkyx#3202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lunarkyx#3202" height="30" width="40" /></a>
+<p align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-lalainediok-2A0944?style=plastic&logo=Linkedin&logoColor=EBA73B&link=https://www.linkedin.com/in/lalaine-diok/)](https://www.linkedin.com/in/lalaine-diok/)
+[![Gmail Badge](https://img.shields.io/badge/-lalainel.diok@gmail.com-2A0944?style=plastic&&logo=Gmail&logoColor=EBA73B&link=lalaine:lalainel.diok@gmail.com)](lalainel.diok@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/-lunarkyx-2A0944?style=plastic&&logo=Discord&logoColor=EBA73B&link=lunarkyx)](https://discord.gg/lunarkyx#3202)
+[![Codepen Badge](https://img.shields.io/badge/-lalainediok-2A0944?style=plastic&&logo=Codepen&logoColor=EBA73B&link=https://codepen.io/lalainediok)](https://codepen.io/lalainediok/)
+[![Instagram Badge](https://img.shields.io/badge/-lalaine247-2A0944?style=plastic&&logo=Instagram&logoColor=EBA73B&link=https://instagram.com/lalaine247/)](https://instagram.com/lalaine247)
 </p>
 
 <!-- TOOLS AND LANGUAGES -->
 <h2 align="left">🛠️💻 Languages and Tools 💻🛠️</h2>
 
 <h3 alight="left">IDEs and Tools</h3>
-<table>
+<table align="center">
     <tr>
         <th colspan='6'>
             <h4 align='center'>PROGRAMMING</h4>
@@ -120,8 +125,7 @@
 </table>
 
 <h3 alight="left">Programming Languages</h3>
-<table>
-<table>
+<table align="center">
     <tr>
         <th colspan='5'>
             <h4 align='center'>WEB DEVELOPMENT</h4>
@@ -244,22 +248,25 @@
     </tr>
 </table>
 
-</table>
-
-
-
-
 
 
 <!-- ORGANIZATION -->
-
-
-<!-- PROJECTS -->
-
+<h2 align="left">👩‍💻 Organizations 👩‍💻</h2>
 
 <!-- HOBBIES -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalainediok&show_icons=true&locale=en&layout=compact" alt="lalainediok" /></p>
+<h2 align="left">✏️ Hobbies ✏️</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalainediok&show_icons=true&locale=en" alt="lalainediok" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalainediok&" alt="lalainediok" /></p>
+
+<!-- STATS -->
+<h2 align="left">⚡ Stats ⚡</h2>
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=lalainediok&show_icons=true&locale=en" alt="lalainediok" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lalainediok&" alt="lalainediok" />
+</p>
+
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalainediok&show_icons=true&locale=en&layout=compact" alt="lalainediok" />
+</p>
