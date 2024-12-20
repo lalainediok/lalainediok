@@ -9,9 +9,11 @@
 <!-- ABOUT ME SECTION-->
 <h2 align="left" height="30px">💬 About Me 💬</h2>
 
-- 🏫 I’m a 4th Year Student in **Polytechnic University of the Philippines** 
+- 👩🏻‍💻 I work under in **ECo Global Consulting, Inc.**
+   
+- 🏫 I Graduated in **Polytechnic University of the Philippines** 
 
-- 🖥️ Studying under the **BS Information Technology**
+- 🖥️ Working under the field of **Information Technology**
 
 - ⚡ Fun fact **I'm a volunteer of Python Philippines 🇵🇭 and part of PyLadies👩‍💻**! 
 
